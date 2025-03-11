@@ -5,6 +5,7 @@
 - 📫 *How to reach me?* <br> EmailId: mdhv694@gmail.com
 ## Familier technologies
 - C, PYTHON, HTML, CSS, JS, NODEJS, EXPRESSJS, MONGODB, DJANGO, MYSQL
+- Git
 
 <!---
 narayn9/narayn9 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
