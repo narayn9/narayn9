@@ -1,5 +1,5 @@
 # Welcome to my github page
-- 👋 *Hi*, I’m **NIKHIL NARAYAN UPADHYAY**, an **undergrad student in BTech (computer science and engineering)** at **DELHI TECHOLOGICAL UNIVERSITY (DTU)**.
+- 👋 *Hi*, I’m **NIKHIL NARAYAN UPADHYAY**, an **undergrad student in BTech (Computer science and Engineering)** at **DELHI TECHOLOGICAL UNIVERSITY (DTU)**.
 - 👀 *I’m interested in* exploring different domains of technologies.
 - 🌱 *I’m currently learning* **data structure and algorithms** and exploring **full stack web development**.
 - 📫 *How to reach me?* <br> EmailId: mdhv694@gmail.com
