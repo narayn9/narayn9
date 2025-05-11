@@ -4,7 +4,7 @@
 - 🌱 *I’m currently learning* **data structure and algorithms** and exploring **full stack web development**.
 - 📫 *How to reach me?* <br> EmailId: mdhv694@gmail.com
 ## Familier technologies
-- C, PYTHON, HTML, CSS, JS, NODEJS, EXPRESSJS, MONGODB, DJANGO, MYSQL
+- C, C++, PYTHON, HTML, CSS, JS, NODEJS, EXPRESSJS, MONGODB, DJANGO, MYSQL
 - Git
 
 <!---
