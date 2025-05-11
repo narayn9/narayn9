@@ -2,7 +2,7 @@
 - 👋 *Hi*, I’m **NIKHIL NARAYAN UPADHYAY**, an **undergrad student in BTech (Computer science and Engineering)** at **DELHI TECHOLOGICAL UNIVERSITY (DTU)**.
 - 👀 *I’m interested in* exploring different domains of technologies.
 - 🌱 *I’m currently learning* **data structure and algorithms** and exploring **full stack web development**.
-- 📫 *How to reach me?* <br> EmailId: mdhv694@gmail.com
+- 📫 *Let's Connect* <br> EmailId: mdhv694@gmail.com
 ## Familier technologies
 - C, C++, PYTHON, HTML, CSS, JS, NODEJS, EXPRESSJS, MONGODB, DJANGO, MYSQL
 - Git
